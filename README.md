@@ -11,7 +11,7 @@ Script para subir uma instância EC2 e rodá-la na AWS, através de SDK para Pyt
 
 ## Para rodar o projeto
 
-- Inicialmente, foi necessário baixar o lib boto3
+- Inicialmente, foi necessário baixar a lib boto3
 ```
 pip install boto3
 ```
